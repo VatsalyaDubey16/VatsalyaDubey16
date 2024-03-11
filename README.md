@@ -1,8 +1,8 @@
-<img src="https://github.com/VatsalyaDubey16/VatsalyaDubey16/blob/main/Banner.webp" alt="logo" height="400" width ="1400">
+<img src="https://github.com/VatsalyaDubey16/VatsalyaDubey16/blob/main/banner.jpg" alt="logo" height="400" width ="1400">
 <h1 align="center">Hi 👋, I'm Vatsalya Dubey</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
-<img align="right" alt="coding" width="400"  src= "https://github.com/VatsalyaDubey16/VatsalyaDubey16/assets/159147037/13971171-ec53-437a-8688-cb4a30bcecd5">
+<img align="right" alt="coding" width="400"  src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalyadubey16&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalyadubey16" /> </p>
 
