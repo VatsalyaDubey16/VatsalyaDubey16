@@ -1,4 +1,5 @@
-![image](https://github.com/VatsalyaDubey16/VatsalyaDubey16/assets/159147037/fb952f1b-b769-42f9-bea0-bf548310bdf3)<h1 align="center">Hi 👋, I'm Vatsalya Dubey</h1>
+<img src="https://github.com/VatsalyaDubey16/VatsalyaDubey16/blob/main/Banner.webp" alt="logo" height="400" width ="1400">
+Hi 👋, I'm Vatsalya Dubey</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
 <img align="right" alt="coding" width="400"  src= "https://github.com/VatsalyaDubey16/VatsalyaDubey16/assets/159147037/13971171-ec53-437a-8688-cb4a30bcecd5">
