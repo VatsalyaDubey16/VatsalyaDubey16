@@ -1,4 +1,4 @@
-<img src="https://github.com/VatsalyaDubey16/VatsalyaDubey16/blob/main/banner.jpg" alt="logo" height="300" width ="1400">
+
 <h1 align="center">Hi 👋, I'm Vatsalya Dubey</h1>
 <h3 align="center">A passionate AI/ML developer from India</h3>
 
